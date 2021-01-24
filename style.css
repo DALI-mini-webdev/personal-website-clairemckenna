@@ -1,1 +1,15 @@
-this is for style
+.bold-text{
+    font-weight: bold;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.blue-text{
+    color: rgb(100,100, 700);
+}
+
+#backgroundcolor{
+    background-color: khaki;
+}
